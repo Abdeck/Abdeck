@@ -1,3 +1,3 @@
 ### abdeck
 
-seg @ uottawa. python, sql. building uOBoost.
+python, sql. building stuff.
